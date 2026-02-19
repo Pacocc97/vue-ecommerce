@@ -22,7 +22,7 @@ importers:
         specifier: ^24.10.1
         version: 24.10.13
       '@vitejs/plugin-vue':
-        specifier: ^6.0.2
+        specifier: ^6.0.4
         version: 6.0.4(vite@7.3.1(@types/node@24.10.13)(yaml@2.8.2))(vue@3.5.28(typescript@5.9.3))
       '@vue/test-utils':
         specifier: ^2.4.6
